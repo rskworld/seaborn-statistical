@@ -27,11 +27,11 @@ wheels/
 .ipynb_checkpoints
 *.ipynb_checkpoints/
 
-# Images (keep structure but ignore generated images)
-images/*.png
-images/*.jpg
-images/*.jpeg
-!images/.gitkeep
+# Images - now tracked in repository
+# images/*.png
+# images/*.jpg
+# images/*.jpeg
+# !images/.gitkeep
 
 # IDE
 .vscode/
