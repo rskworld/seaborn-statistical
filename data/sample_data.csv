@@ -1,0 +1,39 @@
+# Sample Dataset for Seaborn Statistical Visualization
+# Author: Molla Samser
+# Website: https://rskworld.in/
+# Email: help@rskworld.in
+# Phone: +91 93305 39277
+# Address: Nutanhat, Mongolkote, Purba Burdwan, West Bengal, India, 713147
+
+age,income,education_years,experience,gender,category,score,sales,region
+25,45000,12,2,Male,Category A,75,1200,North
+30,55000,14,5,Female,Category B,82,1500,South
+35,65000,16,8,Male,Category A,88,1800,East
+28,48000,13,3,Female,Category C,70,1100,West
+32,60000,15,6,Male,Category B,85,1700,North
+40,75000,18,12,Female,Category A,92,2100,South
+27,46000,12,2,Male,Category C,68,1050,East
+33,62000,16,7,Female,Category B,87,1750,West
+38,70000,17,10,Male,Category A,90,1950,North
+29,50000,14,4,Female,Category B,78,1350,South
+36,68000,16,9,Male,Category A,89,1850,East
+31,58000,15,5,Female,Category C,80,1450,West
+42,80000,20,15,Male,Category B,95,2300,North
+26,47000,12,1,Female,Category A,72,1150,South
+34,64000,16,8,Male,Category B,86,1800,East
+39,72000,18,11,Female,Category A,91,2000,West
+24,44000,12,1,Male,Category C,65,1000,North
+37,69000,17,9,Female,Category B,88,1900,South
+41,78000,19,13,Male,Category A,93,2200,East
+28,49000,13,3,Female,Category C,74,1250,West
+35,66000,16,8,Male,Category B,87,1820,North
+30,56000,14,5,Female,Category A,81,1550,South
+43,82000,20,16,Male,Category B,96,2400,East
+27,48000,12,2,Female,Category C,69,1080,West
+33,61000,15,6,Male,Category A,84,1680,North
+38,71000,17,10,Female,Category B,90,1980,South
+29,51000,14,4,Male,Category A,79,1400,East
+36,67000,16,9,Female,Category B,88,1870,West
+40,76000,18,12,Male,Category A,92,2120,North
+31,59000,15,5,Female,Category C,81,1480,South
+
