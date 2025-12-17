@@ -1,10 +1,3 @@
-# Sample Dataset for Seaborn Statistical Visualization
-# Author: Molla Samser
-# Website: https://rskworld.in/
-# Email: help@rskworld.in
-# Phone: +91 93305 39277
-# Address: Nutanhat, Mongolkote, Purba Burdwan, West Bengal, India, 713147
-
 age,income,education_years,experience,gender,category,score,sales,region
 25,45000,12,2,Male,Category A,75,1200,North
 30,55000,14,5,Female,Category B,82,1500,South
@@ -36,4 +29,3 @@ age,income,education_years,experience,gender,category,score,sales,region
 36,67000,16,9,Female,Category B,88,1870,West
 40,76000,18,12,Male,Category A,92,2120,North
 31,59000,15,5,Female,Category C,81,1480,South
-
