@@ -110,9 +110,25 @@ plt.show()
 **Phone:** +91 93305 39277  
 **Address:** Nutanhat, Mongolkote, Purba Burdwan, West Bengal, India, 713147
 
+## Generating Images
+
+To automatically generate all visualization images, run:
+
+```bash
+python generate_images.py
+```
+
+This script will:
+- Execute all Jupyter notebooks
+- Generate visualization images automatically
+- Save images to the `images/` directory
+- Delete itself after completion
+
+**Note**: Make sure all dependencies are installed (`pip install -r requirements.txt`) before running the script.
+
 ## License
 
-This project is for educational purposes.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 

@@ -28,6 +28,29 @@ When you run the notebooks, visualization images will be automatically saved her
 
 ## Image Generation
 
+### Automatic Generation
+
+Run the `generate_images.py` script in the project root to automatically generate all visualization images:
+
+```bash
+python generate_images.py
+```
+
+This script will:
+- Execute all Jupyter notebooks in sequence
+- Generate visualization images automatically
+- Save all images to this `images/` directory
+- Delete itself after completion
+
+### Manual Generation
+
+To generate images manually:
+1. Open Jupyter Notebook: `jupyter notebook`
+2. Open any notebook from the `notebooks/` directory
+3. Run all cells - images will be saved automatically to this directory
+
+### Project Showcase Images
+
 To generate project showcase images, use the prompts provided in the project documentation or create visualizations by running the notebooks.
 
 ---
